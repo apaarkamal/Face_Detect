@@ -2,7 +2,7 @@ import cv2
 import sys
 
 # Get user supplied values
-imagePath = sys.argv[1]
+imagePath = "abba.png"
 cascPath = "haarcascade_frontalface_default.xml"
 
 # Create the haar cascade
